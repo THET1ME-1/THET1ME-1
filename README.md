@@ -1,12 +1,6 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/78138d0f-206f-42f3-8bf8-f2eecf9a9ec8" />
 
-# 👋 Hi, I'm a Developer & 3D Artist
-
-Welcome to my GitHub profile!
-
 I specialize in **3D modeling**, **web development**, and **mobile app development**. I enjoy building visually appealing and functional digital products.
-
----
 
 ## 🚀 About Me
 
@@ -14,8 +8,6 @@ I specialize in **3D modeling**, **web development**, and **mobile app developme
 - 💻 Web Developer (Frontend & Backend)
 - 📱 Mobile App Developer with **Flutter**
 - ⚡ Passionate about clean design and performance
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -32,8 +24,6 @@ I specialize in **3D modeling**, **web development**, and **mobile app developme
 - Flutter
 - Dart
 
----
-
 ## 💼 What I Do
 
 - Create high-quality **3D models and renders**
@@ -41,17 +31,9 @@ I specialize in **3D modeling**, **web development**, and **mobile app developme
 - Develop cross-platform **mobile applications**
 - Turn ideas into real digital products
 
----
-
 ## 📂 Projects
 
 Check out my repositories to see my work:
 - 🌍 Websites
 - 📱 Mobile Apps
 - 🎨 3D Models
-
----
-
-## ⭐ Support
-
-If you like my work, consider giving a ⭐ to my repositories!
