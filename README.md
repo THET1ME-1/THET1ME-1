@@ -161,6 +161,6 @@ Building apps together as **S&amp;T Company**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9E6B,100:00B5C7&height=120&section=footer" width="100%" alt="" />
+<img src="assets/footer.png" width="100%" alt="Let's build something great — 3D · Web · Mobile Apps" />
 
 </div>

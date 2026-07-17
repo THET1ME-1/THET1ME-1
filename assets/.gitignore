@@ -3,5 +3,7 @@
 !.gitignore
 !banner.png
 !stats.png
+!footer.png
 !make-banner.sh
 !make-stats.sh
+!make-footer.sh
