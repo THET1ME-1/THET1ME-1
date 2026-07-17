@@ -142,12 +142,7 @@ The rest of my work lives on my repositories tab.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=THET1ME-1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00B5C7&icon_color=2E9E6B&text_color=9BA7B4" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THET1ME-1&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00B5C7&text_color=9BA7B4" alt="Top languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=THET1ME-1&hide_border=true&background=0D1117&stroke=1F2A30&ring=00B5C7&fire=2E9E6B&currStreakLabel=00B5C7&sideLabels=9BA7B4&dates=6E7B8A&currStreakNum=F5F7FA&sideNums=F5F7FA" alt="GitHub streak" />
+<img src="assets/stats.png" width="88%" alt="GitHub snapshot — 7 public repos, 3 stars, 4 followers, member since 2024; most used languages: Dart 94.9%, JavaScript, HTML, Python" />
 
 </div>
 
