@@ -102,8 +102,9 @@ Beautiful **language flashcards** — offline-first, FSRS spaced repetition, lea
 <td width="50%" valign="top">
 
 ### 💞 Togetherly
-A cozy app **for couples** — shared moments, home-screen widgets, live map, achievements &amp; time capsules.
+A cozy app **for couples** — shared moments, home-screen widgets, live map, achievements &amp; time capsules. Open source.
 
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/togetherly)
 [![Releases](https://img.shields.io/badge/Releases-E84D8A?style=flat-square&logo=android&logoColor=white)](https://github.com/THET1ME-1/togetherly_app_releases)
 
 </td>
