@@ -11,8 +11,9 @@
 **I build visually appealing, functional digital products — from 3D scenes to full-stack web and cross-platform mobile apps.**
 
 [![Kadr](https://img.shields.io/badge/Kadr-00B5C7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/THET1ME-1/Kadr)
-[![Fern](https://img.shields.io/badge/Fern-2E9E6B?style=for-the-badge&logo=anki&logoColor=white)](https://github.com/THET1ME-1/fern_releases)
-[![Togetherly](https://img.shields.io/badge/Togetherly-E84D8A?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/THET1ME-1/togetherly_app_releases)
+[![Fern](https://img.shields.io/badge/Fern-2E9E6B?style=for-the-badge&logo=anki&logoColor=white)](https://github.com/THET1ME-1/Fern)
+[![Togetherly](https://img.shields.io/badge/Togetherly-E84D8A?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/THET1ME-1/Togetherly)
+[![Wickly](https://img.shields.io/badge/Wickly-C77800?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/THET1ME-1/Wickly)
 [![Profile views](https://komarev.com/ghpvc/?username=THET1ME-1&style=for-the-badge&color=334B4F&label=PROFILE+VIEWS)](https://github.com/THET1ME-1)
 
 </div>
@@ -93,8 +94,8 @@ Movie &amp; TV tracker in **Material 3 Expressive** — bold design, rich stats,
 ### 🌿 Fern
 Beautiful **language flashcards** — offline-first, FSRS spaced repetition, learn words from videos, books &amp; photos.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/fern_releases)
-[![Website](https://img.shields.io/badge/Website-2E9E6B?style=flat-square&logo=googlechrome&logoColor=white)](https://thet1me-1.github.io/fern_releases/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/Fern)
+[![Website](https://img.shields.io/badge/Website-2E9E6B?style=flat-square&logo=googlechrome&logoColor=white)](https://thet1me-1.github.io/Fern/)
 
 </td>
 </tr>
@@ -104,10 +105,21 @@ Beautiful **language flashcards** — offline-first, FSRS spaced repetition, lea
 ### 💞 Togetherly
 A cozy app **for couples** — shared moments, home-screen widgets, live map, achievements &amp; time capsules. Open source.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/togetherly)
-[![Releases](https://img.shields.io/badge/Releases-E84D8A?style=flat-square&logo=android&logoColor=white)](https://github.com/THET1ME-1/togetherly_app_releases)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/Togetherly)
+[![Releases](https://img.shields.io/badge/Releases-E84D8A?style=flat-square&logo=android&logoColor=white)](https://github.com/THET1ME-1/Togetherly/releases)
 
 </td>
+<td width="50%" valign="top">
+
+### 🕯️ Wickly
+A private **journal** — no account, on-device encryption, P2P sync between your own devices, 7 languages. FOSS.
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/Wickly)
+[![Releases](https://img.shields.io/badge/Releases-C77800?style=flat-square&logo=android&logoColor=white)](https://github.com/THET1ME-1/Wickly/releases)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🃏 ScoreMaster
@@ -116,8 +128,6 @@ A clean **card-game score counter** — rounds, players, session history, stats 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THET1ME-1/Card-Score-Counter)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Review Hub
@@ -126,7 +136,9 @@ A **SaaS for review analytics** built with **Next.js** — insights, AI-drafted 
 [![Website](https://img.shields.io/badge/Live-00B5C7?style=flat-square&logo=vercel&logoColor=white)](https://st-statics.com)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ➕ More
 The rest of my work lives on my repositories tab.
@@ -143,7 +155,7 @@ The rest of my work lives on my repositories tab.
 
 <div align="center">
 
-<img src="assets/stats.png" width="88%" alt="GitHub snapshot — 7 public repos, 3 stars, 4 followers, member since 2024; most used languages: Dart 94.9%, JavaScript, HTML, Python" />
+<img src="assets/stats.png" width="88%" alt="GitHub snapshot — 8 public repos, 3 stars, 4 followers, member since 2024; most used languages: Dart 68.2%, Swift, TypeScript, PLpgSQL" />
 
 </div>
 
